@@ -48,7 +48,7 @@ The chatbot:
 ### Step 1 – Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/End-to-end-Medical-Chatbot-Generative-AI.git
+git clone https://github.com/2020s18006/End-to-end-Medical-Chatbot-Generative-AI-Project.git
 cd End-to-end-Medical-Chatbot-Generative-AI
 
 
